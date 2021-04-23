@@ -1,0 +1,3 @@
+[submodule "magic/daxigua"]
+	path = magic/daxigua
+	url = https://github.com/liyupi/daxigua.git
